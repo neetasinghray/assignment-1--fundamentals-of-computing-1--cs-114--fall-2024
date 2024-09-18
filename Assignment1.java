@@ -1,6 +1,6 @@
 import java.util.Scanner;
 import java.util.Random;
-public class AssignmentOne
+public class Assignment1
 {
    public static void main(String[] args)
     {
